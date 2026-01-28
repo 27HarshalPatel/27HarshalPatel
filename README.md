@@ -122,7 +122,8 @@ I am a **Software Engineer** and **Graduate Student** pursuing a **Master of Sci
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=27HarshalPatel&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=27HarshalPatel&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=27HarshalPatel&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 
 </div>
 
@@ -173,7 +174,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   
-⭐️ From [Harshal Anil Patel](https://github.com/yourusername)
+⭐️ From [Harshal Anil Patel](https://github.com/27HarshalPatel)
 
 *"Building Scalable Software, ML Systems & Cloud Solutions"*
 
