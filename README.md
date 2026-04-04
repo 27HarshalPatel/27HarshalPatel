@@ -3,7 +3,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal99)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://modern-portfolio-ui-interactions.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://27harshalpatel.github.io/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshal27patel@gmail.com)
   
   *"Building Scalable Software, ML Systems & Cloud Solutions"*
@@ -44,6 +44,12 @@ I am a **Software Engineer** and **Graduate Student** pursuing a **Master of Sci
 ---
 
 ## 🚀 Featured Projects
+
+### 🕵️‍♂️ [FraudLens — Multimodal Fraud Detection](https://github.com/27HarshalPatel/MultiModal-Fraudlens) | (Ongoing Project)
+**Tech Stack:** Python, PyTorch, Hugging Face Transformers (SigLIP 2, DistilBERT), FastAPI, Docker
+- Architecting a production-grade multimodal fraud detection pipeline fusing **computer vision (SigLIP 2)**, **NLP (DistilBERT)**, and **structured data analysis**
+- Designing a **cross-modal attention fusion** layer to dynamically weigh modalities and produce a unified fraud score
+- Integrating explainability using **Captum** to provide actionable insights via image heatmaps and text token attributions
 
 ### 🎫 [Support Ticket System](https://github.com/27HarshalPatel/Support-Ticket-System)
 **Tech Stack:** Django 4.2, Django REST Framework, React 18, PostgreSQL, Anthropic Claude, Docker
@@ -130,7 +136,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal99)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://modern-portfolio-ui-interactions.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://27harshalpatel.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshal27patel@gmail.com)
 📱 +1-352-328-6754
 
