@@ -1,4 +1,4 @@
-# Hi there, I'm Harshal Anil Patel 👋
+# Hi there, I'm Harshal Patel 👋
 
 <div align="center">
   
@@ -140,6 +140,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   
-  ⭐️ From [Harshal Anil Patel](https://github.com/27HarshalPatel)
+  ⭐️ From [Harshal Patel](https://github.com/27HarshalPatel)
 
 </div>
