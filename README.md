@@ -113,7 +113,7 @@ Comparative analysis of supervised learning algorithms achieving 88.1% accuracy 
 
 | Degree | Institution | Timeline | GPA |
 |--------|------------|----------|-----|
-| **M.S. in Artificial Intelligence Systems** | University of Florida, Gainesville, FL | Aug 2025 – Jun 2027 | 3.78/4.0 |
+| **M.S. in Artificial Intelligence Systems** | University of Florida, Gainesville, FL | Aug 2025 – Jun 2027 | 4.0/4.0 |
 | **B.Tech in Computer Science & Engineering** | Visvesvaraya Technological University, Karnataka, India | Aug 2017 – Sep 2021 | 3.9/4.0 |
 
 ---
