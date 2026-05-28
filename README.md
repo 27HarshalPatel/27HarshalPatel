@@ -45,7 +45,7 @@ I am a **Software Engineer** and **Graduate Student** pursuing a **Master of Sci
 
 ## 🚀 Featured Projects
 
-### 🕵️‍♂️ [FraudLens — Multimodal Fraud Detection](https://github.com/27HarshalPatel/MultiModel-Fraudlens) | (Ongoing Project)
+### 🕵️‍♂️ [FraudLens — Multimodal Fraud Detection](https://github.com/27HarshalPatel/MultiModel-Fraudlens)
 **Tech Stack:** Python, PyTorch, Hugging Face Transformers (SigLIP 2, DistilBERT), FastAPI, Docker
 - Architecting a production-grade multimodal fraud detection pipeline fusing **computer vision (SigLIP 2)**, **NLP (DistilBERT)**, and **structured data analysis**
 - Designing a **cross-modal attention fusion** layer to dynamically weigh modalities and produce a unified fraud score
